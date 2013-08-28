@@ -1,0 +1,4 @@
+
+class {'activemq':
+    activemqpassword => 'somepasswordhere',
+}
